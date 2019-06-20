@@ -2,6 +2,7 @@
 
 
 Three folder icon sets for Korla icon theme.
+Korla theme: https://github.com/bikass/korla
 
 ## Installation
 
@@ -12,7 +13,7 @@ For other themes: just folow naming conventions of your theme folders.
 
 ## Preview
 
-![](folders_pic.png)
+![](folders_pic.jpg)
 
 
 ## License
