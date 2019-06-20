@@ -7,6 +7,7 @@ Korla theme: https://github.com/bikass/korla
 ## Installation
 
 Extract one of the folders and rename to "scalable" . Copy to korla/places/
+
 For other themes: just folow naming conventions of your theme folders.
     
 
